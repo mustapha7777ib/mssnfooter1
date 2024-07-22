@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+  padding: 50px;
+  padding-left: 70px;
+  font-family: "Poppins";
+  font-weight: 300;
+  font-size: 15px;
+  background: #f6f4f6;
+  height: 721px;
+}
+.Flexbox{
+  display: flex;
+  flex-direction: row;
+}
+.Flex1{
+  display: flex;
+  flex-direction: column;
+  width: 415px;
+  height: 288px;
+  top: 172px;
+  left: 101px;
+  padding: 57px 8px 26px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.logo{
+  width: 86.29px;
+  height: 96px;
+  top: 94px;
+  left: 101px;
+  gap: 0px;
+  opacity: 0px;  
+}
+.a1{
+  width: 415px;
+  height: 288px;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: left;
+}
+.a2{
+  width: 334px;
+  height: 117px;
+  top: 474px;
+  left: 101px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.a2 *{
+  margin-bottom: -10px;
+}
+.big{
+  width: 276px;
+  height: 45px;
+  top: 57px;
+  gap: 0px;
+  opacity: 0px;
+  color: #302B27;
+  font-family: Poppins;
+font-size: 30px;
+font-weight: 500;
+line-height: 45px;
+text-align: left;
+
+  
+
+}
+.nile{
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: -20px;
+
+}
+.round{
+  color: #070600;
+  font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+
+}
+.ok{
+  color: rgb(1, 1, 133);
+  font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+
+}
+.Flex2{
+  padding-top: 150px;
+  height: 278px;
+  width: 201px;
+  padding-left: 100px;
+  padding-right: 180px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: left;
+
+}
+.Flex3{
+  padding-top: 150px;
+}
+.inputer{
+  background-color: #1C208B40;
+  width: 350px;
+  height: 53px;
+  border-radius: 5px;
+  position: relative;
+  border: none;
+}
+.sendbutton{
+  background-color: #070600;
+  position: absolute;
+  width: 47px;
+  height: 54px;
+  margin-left: -48px;
+  border-radius: 5px;
+}
+input::placeholder{
+  width: 224px;
+  height: 27px;
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 27px;
+  text-align: left;
+  padding-left: 15px;
+  color: #302B27;
+}
+.lonely{
+  width: 177px;
+  height: 38px;
+  top: 472px;
+  left: 1056px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 37.5px;
+  text-align: left;
+  color: #302B27;
+}
+.c2{
+  display: flex;
+  flex-direction: row;
+  width: 24px;
+  height: 24px;
+}
+.c2 *{
+  margin-right: 10px;
+}
