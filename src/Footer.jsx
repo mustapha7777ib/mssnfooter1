@@ -15,18 +15,18 @@ function Footer(){
                 <div className="a1">
                     <p className="big">Our Address</p>
                     <p className="nile">Nile University of Nigeria</p>
-                    <p>Plot 681, Cadastral Zone C-OO, Research &<br/> Institution Area,<br/>Jabi Airport Bypass, Abuja FCT, 900001<br/> Nigeria</p>
+                    <p className="bodyy">Plot 681, Cadastral Zone C-OO, Research & Institution Area,<br/>Jabi Airport Bypass, Abuja FCT, 900001 Nigeria</p>
                 
                 </div>
                 <div className="a2">
-                    <p className="big">Contact Us</p>
+                    <p className="big bigg">Contact Us</p>
                     <p className="ok"><span className="round">Email:</span> mssn@nileuniversity</p>
                     <p className="ok"><span className="round">Phone Number:</span> 0901114238</p>
 
                 </div>
             </div>
             <div className="Flex2">
-                    <p className="big">Information</p>
+                    <p className="big" id="big">Information</p>
                     <p>Islamic Calendar</p>
                     <p>Islamic News</p>
                     <p>FAQ</p>
@@ -36,9 +36,9 @@ function Footer(){
 
             <div className="Flex3">
                 <div className="c1">
-                    <p className="big">Stay In Touch</p>
-                    <p>Drop your Email to stay updated on Latest Islamic<br/> news, 
-                    standpoint, Advice and Opinion that would<br/> strengthen your faith </p>
+                    <p className="big bigg">Stay In Touch</p>
+                    <p className="bodyy">Drop your Email to stay updated on Latest Islamic news, 
+                    standpoint, Advice and Opinion that would strengthen your faith </p>
                 </div>
                 <div className="inputbox">
                     <input className="inputer" placeholder="Enter your email address"></input>
