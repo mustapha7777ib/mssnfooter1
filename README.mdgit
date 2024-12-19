@@ -1,0 +1,1 @@
+# mssnfooter1 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin git@github.com:mustapha7777ib/mssnfooter1.gitgit push -u origin main
