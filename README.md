@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 # mssnfooter
 # mssnfooter
 # mssnfooter
+# mssnfooter1
